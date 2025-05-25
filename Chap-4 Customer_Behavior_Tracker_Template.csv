@@ -1,0 +1,4 @@
+Date,Page or Funnel Step,Observed Behavior,Tool Used (GA4, Hotjar, etc.),Notes,Test Ideas,Priority (Low/Med/High)
+2025-05-20,Homepage,High bounce rate,GA4,5s avg time,Add stronger CTA above the fold,High
+2025-05-20,Product Page,No scroll activity,Hotjar,Only 20% see price,Rearrange images + CTA higher,Med
+2025-05-20,Checkout Step 1,Drop-off spike,GA4 / Session replay,Users stuck at login,Try guest checkout option,High
